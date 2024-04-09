@@ -3,6 +3,10 @@
 
 - **Project objective:** 
 
+    **1.** Create a _[customer performance report](https://github.com/AnujT010/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
+
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AnujT010/Excel-Sales-Analytics/blob/main/Market%20vs%20Performance%20Report.pdf)_
+
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -13,6 +17,10 @@
 ## Finance Report :
 
 - **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[ Months ](https://github.com/AnujT010/Excel-Sales-Analytics/blob/main/P%26L%20months%20sales%20by%20FY%20report.pdf)_ & _[Fiscal Year](https://github.com/AnujT010/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) 
+
+   **2.** Create Profit and Loss (P&L) reports by _[GM%](https://github.com/AnujT010/Excel-Sales-Analytics/blob/main/P%26L%20months%20sales%20by%20GM%25%20report.pdf)
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
